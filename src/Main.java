@@ -2,11 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int a = 20;
-        Scanner in = new Scanner(System.in);
-        int s = in.nextInt();
-        int m;
-         System.out.println(m=s/a);
+        int stoimost = 1500;
+        int mili;
+        System.out.println(mili = stoimost / 20);
 
 
         // Объявляете переменные для входных данных и
