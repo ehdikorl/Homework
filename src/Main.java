@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int stoimost = 1500;
-        int mili;
-        System.out.println(mili = stoimost / 20);
+        int cost = 1500;
+        int miles;
+        System.out.println(miles = cost / 20);
 
 
         // Объявляете переменные для входных данных и
